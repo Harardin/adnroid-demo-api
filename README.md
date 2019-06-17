@@ -10,7 +10,9 @@ newtonsoft.json
 newtonsoft.json
 
 Screenshots:
+
 Скриншоты:
 
 RandomImgs and FavoriteImgs
+
 ![alt text](https://raw.githubusercontent.com/Harardin/adnroid-demo-api/master/RandomPics.jpg) ![alt text](https://raw.githubusercontent.com/Harardin/adnroid-demo-api/master/FavPics.jpg)
