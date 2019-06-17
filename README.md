@@ -13,6 +13,6 @@ Screenshots:
 Скриншоты:
 
 RandomImgs:
-![alt text](https://raw.githubusercontent.com/Harardin/adnroid-demo-api/master/RandomPics.png)
+![alt text]()
 FavoritePics:
-![alt text](https://raw.githubusercontent.com/Harardin/adnroid-demo-api/master/FavPics.png)
+![alt text]()
